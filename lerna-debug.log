@@ -1,0 +1,6 @@
+40 error Error: Command failed: git push --follow-tags --no-verify --atomic origin main
+40 error remote: Invalid username or password.
+40 error fatal: 'https://github.com/wujimin515600/lerna-demo.git/' 鉴权失败
+40 error
+40 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:174:9)
+40 error     at /usr/local/lib/node_modules/lerna/node_modules/execa/index.js:278:16 

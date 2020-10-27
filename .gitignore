@@ -1,3 +1,5 @@
 */node_module/
 */build/
-*/dist/
+*/dist/git 
+
+.learn-debug.log
